@@ -1,0 +1,1 @@
+console.log("El dispositivo está listo para recibir scripts");
